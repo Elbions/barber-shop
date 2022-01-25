@@ -2,19 +2,22 @@
   * [Figma do Projeto](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=34%3A1180)
 
 ## Índice
-  - [Visão Geral](#visao-geral)
-  - [Screenshot](#screenshot)
+
+  - [Visão geral](#visao-geral)
+  - [Captura de tela](#captura-de-tela)
   - [Links](#links)
-  - [Built with](#built-with)
+  - [Construído com](#Construído-com)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Visão geral
+### Visão geral
 
 ## Captura de tela
 
 ## Links
+
+## Construído com
 
 
