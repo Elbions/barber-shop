@@ -34,9 +34,17 @@ Fluxo de trabalho para dispositivos móveis <br>
 
 ## Autores
 
-Desenvolvedores:
 
-* [Bianca P. Barbosa](https://github.com/biancapb)
+
+* Desenvolvedora Backend e Frontend  | [Bianca P. Barbosa](https://github.com/biancapb)
 
 * [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
+
+
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
+
+
+
 
