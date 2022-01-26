@@ -9,6 +9,7 @@
   - [Recursos usados](#recursos-usados)
   - [O que aprendemos](#o-que-aprendemos)
   - [Desenvolvimento contínuo](#Desenvolvimento-contínuo)
+  - [Recursos úteis](#Recursos-uteis)
   - [Autores](#autores)
 
 ## Visão geral
@@ -28,6 +29,8 @@ Fluxo de trabalho para dispositivos móveis <br>
 ## O que aprendemos
 
 ## Desenvolvimento contínuo
+
+## Recursos úteis
 
 ## Autores
 
