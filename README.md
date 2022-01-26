@@ -36,7 +36,7 @@ Fluxo de trabalho para dispositivos móveis <br>
 
 Desenvolvedores:
 
-[Bianca P. Barbosa](https://github.com/biancapb)
+* [Bianca P. Barbosa](https://github.com/biancapb)
 
-[Eljonas Cavalcante](https://github.com/EljonasCavalcante)
+* [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
 
