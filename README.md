@@ -36,9 +36,11 @@ Fluxo de trabalho para dispositivos móveis <br>
 
 
 
-* Desenvolvedora Backend  | [Bianca P. Barbosa](https://github.com/biancapb)
+* Desenvolvedora Backend  UX/UI Designer | [Bianca P. Barbosa](https://github.com/biancapb)
+  * Especializado em ...
 
-* Desenvolvedora Frontend  |  [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
+* Desenvolvedora Frontend UX/UI Designer |  [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
+  * Especializado em ...
 
 ## Teste
 
