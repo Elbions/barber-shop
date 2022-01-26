@@ -36,10 +36,11 @@ Fluxo de trabalho para dispositivos móveis <br>
 
 
 
-* Desenvolvedora Backend e Frontend  | [Bianca P. Barbosa](https://github.com/biancapb)
+* Desenvolvedora Backend  | [Bianca P. Barbosa](https://github.com/biancapb)
 
-* [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
+* Desenvolvedora Frontend  |  [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
 
+## Teste
 
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
