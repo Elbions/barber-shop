@@ -18,7 +18,11 @@
 
 ## Recursos usados
 
-React web utilizando a linguagem TypeScript.
+React web utilizando a linguagem TypeScript. 
+Marcação semântica HTML5
+Propriedades personalizadas de CSS
+Fluxo de trabalho para dispositivos móveis
+
 
 ## O que aprendemos
 
