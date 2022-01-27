@@ -42,11 +42,7 @@ Fluxo de trabalho para dispositivos móveis <br>
 * Desenvolvedora Frontend UX/UI Designer |  [Eljonas Cavalcante](https://github.com/EljonasCavalcante)
   * Especializado em ...
 
-## Teste
 
-Alinhado a esquerda | Centralizado | Alinhado a direita
-:--------- | :------: | -------:
-Valor | Valor | Valor
 
 
 
