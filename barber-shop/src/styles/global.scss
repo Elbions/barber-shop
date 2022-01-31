@@ -1,0 +1,21 @@
+
+html {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #312E38;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    color: #F4EDE8;
+    font-family: 'Roboto Slab';
+    font-weight: 500;
+  }
+  input,
+  select {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
