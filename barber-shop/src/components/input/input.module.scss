@@ -1,14 +1,26 @@
-.container {
-    background-color: #312E38;
-    color: #666360;
-}
 
 .input {
+    width: 340px;
+    height: 56px;
+    padding-left: 2.8rem;
     background-color: #232129;
     color: #F4EDE8;
     font-family: 'Roboto Slab';
-    
-    ::placeholder {
-        color: blueviolet;
+    font-size: 16px;
+    border-radius: 3vh;
+
+    &:focus {
+        outline: none;
+        box-shadow: 0 0 10px #FF9000;
     }
+
+    ::placeholder {
+        padding-left: 2.8rem;
+        color: #666360;  
+        font-size: 16px;
+    }
+}
+
+.inputPassword {
+    background-color: #F4EDE8;
 }

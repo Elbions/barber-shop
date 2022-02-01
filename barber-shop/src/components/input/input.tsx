@@ -1,13 +1,15 @@
-import styles from './input.module.scss';
 import { HTMLInputTypeAttribute, InputHTMLAttributes, useState  } from 'react';
+
+import styles from './input.module.scss';
 
 interface Props extends InputHTMLAttributes<HTMLInputElement> {
     isPassword?: boolean;
-  }
-export function Input(props: Props) {
+    placeholder?: string;
+}
+export function Input (props: Props) {
     return (
-        <div className={styles.container}>
-            <input className={styles.input}></input>
+        <div>
+            <input className={styles.input}  {...props}/>
         </div>
     )
 }
