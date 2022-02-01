@@ -1,0 +1,14 @@
+.container {
+    background-color: #312E38;
+    color: #666360;
+}
+
+.input {
+    background-color: #232129;
+    color: #F4EDE8;
+    font-family: 'Roboto Slab';
+    
+    ::placeholder {
+        color: blueviolet;
+    }
+}
