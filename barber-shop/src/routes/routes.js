@@ -1,14 +1,14 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Login } from '../pages/login/login';
 
-function Routes() {
+function NavigationRoutes() {
     return (
         <BrowserRouter>
-            <Switch>
-                <Route path='/' exact component={Login}/>
-            </Switch>
+            <Routes>
+                <Route path="/" element={<Login />} />
+            </Routes>
         </BrowserRouter>
     );
 }
 
-export default Routes;
+export default NavigationRoutes;
