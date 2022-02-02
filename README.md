@@ -34,8 +34,6 @@ Fluxo de trabalho para dispositivos móveis <br>
 
 ## Autores
 
-
-
 * Desenvolvedora Backend  UX/UI Designer | [Bianca P. Barbosa](https://github.com/biancapb)
   * Especializado em ...
 
