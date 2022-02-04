@@ -9,7 +9,9 @@ interface Props extends InputHTMLAttributes<HTMLInputElement> {
 export function Button (props: Props) {
     return (
         <div>
-            <a>Entrar</a>
+          <a className={styles.button}>Entrar </a>
         </div>
-    )
+        
+      
+    );
 }
