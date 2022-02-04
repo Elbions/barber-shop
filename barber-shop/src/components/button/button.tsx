@@ -1,15 +1,9 @@
-import { HTMLInputTypeAttribute, InputHTMLAttributes, useState  } from 'react';
-
 import styles from './button.module.scss';
 
-interface Props extends InputHTMLAttributes<HTMLInputElement> {
-    isPassword?: boolean;
-    placeholder?: string;
-}
-export function Button (props: Props) {
+export function Button () {
     return (
         <div>
-          <a className={styles.button}>Entrar </a>
+          <button className={styles.button}>Entrar </button>
         </div>      
     );
 }

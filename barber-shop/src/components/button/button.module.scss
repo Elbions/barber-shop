@@ -1,18 +1,19 @@
 
 
 .button {
-    display: block; 
+    display: inline-block; 
     width: 340px;
-    height: 56px;
-    border: 1px solid black;
+    height: 56px;   
     border-radius: 10px;
     text-decoration: none;
     text-align: center;
     line-height: 45px;
     font-size: 16px;
-    font-family: Roboto;
+    font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 500;    
     background: rgba(255, 144, 0, 1);
-    color: rgba(49, 46, 56, 1);     
+    color: rgba(49, 46, 56, 1);
+    cursor: pointer;
+    box-shadow:  rgba(255, 144, 0, 0.02);    
 }
