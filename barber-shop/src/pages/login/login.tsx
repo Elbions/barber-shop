@@ -1,4 +1,5 @@
 import photoLogin from '../../assets/login.png';
+import { Button } from '../../components/button/button';
 import { Input } from '../../components/input/input';
 import styles from './login.module.scss';
 import logo from '../../assets/icons/logo.png'
@@ -13,7 +14,8 @@ export function Login() {
             <div>
                 <Input icon={emailIcon} placeholder="E-mail" /> 
                 <Input icon={passwordIcon} placeholder='Senha'/> 
-            </div>
+          </div>
+
         </div>
     )
 }
