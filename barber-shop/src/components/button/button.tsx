@@ -10,8 +10,6 @@ export function Button (props: Props) {
     return (
         <div>
           <a className={styles.button}>Entrar </a>
-        </div>
-        
-      
+        </div>      
     );
 }
