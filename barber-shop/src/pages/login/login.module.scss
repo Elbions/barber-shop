@@ -1,5 +1,79 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700&display=swap');
 
 .container {
-    
+    flex-direction: row-reverse;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
 }
+
+.loginPhotoContainer {
+    display: flex;
+    justify-content: stretch;
+
+    img {
+        height: 980px;
+        mix-blend-mode: overlay;
+    }
+}
+
+.loginContainer {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-self: stretch;
+    align-items: center;
+}
+
+.loginLogoContainer {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+    img {
+        padding-bottom: 80px;
+    }
+
+    p {
+        font-size: 24px;
+        line-height: 31px;
+        padding-bottom: 24px;
+    }
+}
+
+.loginBox {
+    p { 
+        font-weight: 400;
+        cursor: pointer;
+        font-size: 16px;
+        &:hover {
+            color: #FF9000;
+        }
+    }
+
+    Button {
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+}
+
+.loginRegister {
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: center;  
+    margin-top: 80px;
+    font-weight: 400;
+    
+    img {     
+        margin-right: 18px;
+    }
+}
+
+.loginFooter {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
