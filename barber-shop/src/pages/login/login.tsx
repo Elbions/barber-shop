@@ -9,28 +9,20 @@ import passwordIcon from '../../assets/icons/imgpassword.png'
 export function Login() {
     return (
         <div className={styles.container}>
-
             <div className={styles.loginPhotoContainer}>
                 <img src={photoLogin}></img>
             </div>
-
             <div className={styles.loginContainer}>
-
                 <div className={styles.loginLogoContainer}>
                     <img src={logo}></img>
-                    
                     <p>Faça seu login</p>
                 </div>
-
                 <div className={styles.loginBox}>
-                        <Input icon={emailIcon} placeholder="E-mail" /> 
-                        <Input icon={passwordIcon} placeholder='Senha'/>
-                    
-                        <Button /> 
-
+                    <Input icon={emailIcon} placeholder="E-mail" /> 
+                    <Input icon={passwordIcon} placeholder='Senha'/>
+                    <Button /> 
                     <div className={styles.loginFooter}>
                         <p>Esqueci minha senha</p>
-                        
                         <div className={styles.loginRegister}>
                             <p>Criar conta</p>
                             <img src={registerIcon}></img>
@@ -38,7 +30,6 @@ export function Login() {
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }
