@@ -23,10 +23,10 @@ export function Login() {
                 </div>
 
                 <div className={styles.loginBox}>
-                    <Input icon={emailIcon} placeholder="E-mail" /> 
-                    <Input icon={passwordIcon} placeholder='Senha'/>
-
-                    <Button /> 
+                        <Input icon={emailIcon} placeholder="E-mail" /> 
+                        <Input icon={passwordIcon} placeholder='Senha'/>
+                    
+                        <Button /> 
 
                     <div className={styles.loginFooter}>
                         <p>Esqueci minha senha</p>

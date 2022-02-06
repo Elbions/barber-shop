@@ -7,7 +7,6 @@
     flex-wrap: wrap;
     align-content: center;
     justify-content: space-evenly;
-
 }
 
 .loginPhotoContainer {
@@ -16,7 +15,7 @@
 
     img {
         height: 980px;
-        opacity: 50%;
+        mix-blend-mode: overlay;
     }
 }
 
@@ -33,19 +32,30 @@
     display: flex;
     align-items: center;
 
+    img {
+        padding-bottom: 80px;
+    }
+
     p {
         font-size: 24px;
         line-height: 31px;
+        padding-bottom: 24px;
     }
 }
 
 .loginBox {
-    p {
+    p { 
+        font-weight: 400;
         cursor: pointer;
         font-size: 16px;
         &:hover {
             color: #FF9000;
         }
+    }
+
+    Button {
+        margin-top: 24px;
+        margin-bottom: 24px;
     }
 }
 
@@ -53,11 +63,17 @@
     flex-direction: row-reverse;
     display: flex;
     justify-content: center;  
+    margin-top: 80px;
+    font-weight: 400;
+    
+    img {     
+        margin-right: 18px;
+    }
 }
 
 .loginFooter {
     flex-direction: column;
     display: flex;
     align-items: center;
-
 }
+
